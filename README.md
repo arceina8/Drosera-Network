@@ -12,7 +12,7 @@ In this Guide, we contribute to Drosera testnet by:
 * Get started with a low-budget `VPS` for as low as $5! [Purchase here](https://my.hostbrr.com/order/forms/a/NTMxNw==)
 * Create your own `Ethereum Holesky RPC` in [Alchemy](https://dashboard.alchemy.com/) or [QuickNode](https://dashboard.quicknode.com/).
 
-### Install Dependecies
+### Install Dependencies
 ```
 sudo apt-get update && sudo apt-get upgrade -y
 ```
