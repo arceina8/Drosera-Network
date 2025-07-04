@@ -133,7 +133,7 @@ DROSERA_PRIVATE_KEY=xxx drosera apply
 
 #
 
-🚨 **Error**: You may get several errors (.eg #429) due to `rpc` issues, to fix, you can enter bellow command by adding `--eth-rpc-url`
+🚨 **Error**: You may get several errors (.eg #429) due to `rpc` issues, to fix, you can enter below command by adding `--eth-rpc-url`
 ```bash
 DROSERA_PRIVATE_KEY=xxx drosera apply --eth-rpc-url RPC
 ```
